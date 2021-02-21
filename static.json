@@ -1,7 +1,8 @@
 {
 "headers":{
 "/*": {
-"X-Author": "NereMaitea"
+"X-Author": "NereMaitea",
+"Access-Control-Allow-Origin": "*"
 }
 }
 }
